@@ -1,0 +1,31 @@
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.py[cod]
+*.log
+*.iml
+.idea/
+/.idea/
+/.virtual_documents/
+geckodriver.log
+/Jupyter Notebook Files/
+/_SYNCAPP/
+/.vscode/Win32 dynamic linked library.dll
+/.vscode/settings.json
+/.vscode/
+__ManageTools/File_Type_Demo_(icons)/Win32 dynamic linked library.dll
+/_PythonProjects/MkDocs_Projects/CNS_Handbooks/site/
+/_PythonProjects/Django_Demo/
+/_WebDevProjects/HTML+JavaScript/img/
+/_ModulesRepository/爬蟲工具/img/
+_ModulesRepository/___開發中/2021-07_Crewler_for_TAF/Working_FIles/
+_ModulesRepository/___開發中/2021-04_DataBase/MySQL_export_Files/
+.DS_Store
+Icon
+Icon?
+*.ico
+*.json
+_ModulesRepository/___開發中/2021-08_GoogleCalendarAPI/token\ files/
+venv/
+Fetch_Data/
